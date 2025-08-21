@@ -3,7 +3,7 @@
 <img align="right" width=400px alt="Unicorn" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-I'm a third-year computer science student. I'm expanding my knowledge in analysis, design, and development. I enjoy learning new technologies and applying them to different projects.
+I'm a third-year computer science student. I'm expanding my knowledge in analysis, design and development. I enjoy learning new technologies and applying them to different projects.
 I am open to my first job in order to gain experience.
 
 <br>
